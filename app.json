@@ -11,7 +11,7 @@
   "SESSION_ID": {
       "description": "Put your SESSION_ID here. Must start with Gifted~ Leave blank if you're using creds.json",
       "required": false,
-      "value": ""
+      "value": "Gifted~dy979XX2"
     },
     "MODE": {
       "description": "Put Mode either public or private",
